@@ -1,2 +1,2 @@
 speechrecognition
-pyaudio
+recorder

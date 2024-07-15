@@ -6,7 +6,7 @@ This project records audio and transcribes it using Google's speech recognition 
 
 - Python 3.x
 - `speechrecognition`
-- `pyaudio`
+- `recorder`
 
 ## Setup
 
